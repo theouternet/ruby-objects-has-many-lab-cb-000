@@ -14,7 +14,7 @@ class Post
   
   def author_name
     author.name if name
-    end
+  end
 
 
 
